@@ -39,10 +39,10 @@ Some bash scripts that made to automate various tasks
 - It uses a basic iteration function between a previously defined range to observe how many id values ​​exist on a page.
 
 # **[Local Hostscan](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/hostscan.sh)**
-- 
+- A network is scanned for active hosts through iteration based on the ICMP protocol using threads for greater effectiveness
 
 # **[PrivEsc finder](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/PrivEsc_scanner(hav3st3r).sh)**
--
+- Lists possible common vectors for privilege escalation. I use the [GTFObins](https://gtfobins.github.io/) project as support to compare across a [list](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/binary_list.txt) of potential vulnerable vector binaries. It is still under review
 
 
 ***
