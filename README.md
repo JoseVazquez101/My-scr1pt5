@@ -20,6 +20,14 @@ Some bash scripts that made to automate various tasks
 # **[Cron Detector](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/procron.sh)**
 - Identifier of cron tasks executed within the victim system, with restrictions to only show certain parameters
 
+# **[Basic SQLi](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/sqli.py)**
+- Automation testing for basic time-based and blind SQL injections, within a local environment
+
+# **[Basic NoSQLi](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/nosqli.py)**
+- Automation testing for basic NoSQL injections based on the use of regular expressions, query manipulation and trial and error loops. This in a local environment
+
+
+
 ***
 - Another section includes various scripts for various uses
 
