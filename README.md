@@ -26,6 +26,23 @@ Some bash scripts that made to automate various tasks
 # **[Basic NoSQLi](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/nosqli.py)**
 - Automation testing for basic NoSQL injections based on the use of regular expressions, query manipulation and trial and error loops. This in a local environment
 
+# **[Proc-based PortScan](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/myports_proc.sh)**
+- This script shows open ports on a system by reading the /proc/net/tcp connection file
+
+# **[Iteration-based PortScan](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/myports_iteration.sh)**
+- This script performs a port scan iteration on the local IP address
+
+# **[Ldap enumerator](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/ldapi.py)**
+- This script performs an automated and semi-automated scan of a given URL in order to enumerate the Ldap service in different fields within a local environment
+
+# **[ID-Range finder](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/id_webrange.sh)**
+- It uses a basic iteration function between a previously defined range to observe how many id values ​​exist on a page.
+
+# **[Local Hostscan](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/hostscan.sh)**
+- 
+
+# **[PrivEsc finder](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/PrivEsc_scanner(hav3st3r).sh)**
+-
 
 
 ***
