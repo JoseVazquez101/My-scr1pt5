@@ -28,4 +28,7 @@ Some bash scripts that made to automate various tasks
 - Decompress multiple compressed files using 7z
 
 # **[Bash Roulette](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/roulette.sh)**
-- Independent project applied in the introduction to Linux course at [Hack4u](https://hack4u.io/) focused on improving scripting skills in Bash
+- Independent project applied in the introduction to Linux course at [Hack4u](https://hack4u.io/), focused on improving scripting skills in Bash
+
+# **[HTBMap](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/htbmap.sh)**
+- Machine enumerator on the HackTheBox platform through various filters. Applied in the introduction to Linux course at [Hack4u](https://hack4u.io/), focused on improving scripting skills in Bash.
