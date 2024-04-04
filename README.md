@@ -14,7 +14,7 @@ Some bash scripts that made to automate various tasks
 # **[OS identifier](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/OS_identifier.py)**
 - Script that identifies the operating system of a computer through the time to live (TTL) of a ping
 
-# **[Bruteforcer WP](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/README.md)**
+# **[Bruteforcer WP](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/brute-wp.sh)**
 - Basic brute force tool on a local Wordpress login, based on the abuse of an XML file
 
 # **[Cron Detector](https://github.com/JoseVazquez101/My-scr1pt5/blob/main/procron.sh)**
