@@ -1,4 +1,3 @@
-└─# cat brute-wp.sh 
 #!/bin/bash
 
 function ctrl_c() {
